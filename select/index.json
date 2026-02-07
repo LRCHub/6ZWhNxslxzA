@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Dreamflasher",
+  "base_artist": "Jane Remover",
+  "createdAt": "2026-02-07T13:00:59.592595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dreamflasher",
+      "artist": "Jane Remover",
+      "has_synced": true,
+      "path": "select/01_Dreamflasher_Jane_Remover.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreamflasher (Paused)",
+      "artist": "Jane Remover",
+      "has_synced": true,
+      "path": "select/02_Dreamflasher_(Paused)_Jane_Remover.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dreamflasher",
+      "artist": "Jane Remover",
+      "has_synced": false,
+      "path": "select/pl_01_Dreamflasher_Jane_Remover.txt"
+    }
+  ]
+}
